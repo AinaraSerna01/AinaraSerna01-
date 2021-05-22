@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ej3-1.css"?>
+<raiz>
+    <tag class="nada">Uno</tag>
+    <tag class="nada">Dos</tag>
+    <tag class="nada">Tres</tag>
+    <tag class="nada">Cuatro</tag>
+    <tag class="nada">Cinco</tag>
+</raiz>
